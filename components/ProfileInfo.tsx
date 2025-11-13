@@ -19,7 +19,7 @@ export default function ProfileInfo() {
         <div className="rounded-full w-full h-full bg-white dark:bg-dark p-1 md:p-1.5">
           <div className="rounded-full w-full h-full bg-light-yellow dark:bg-dark-yellow">
             <div className="rounded-full w-full h-full relative overflow-hidden">
-              <div className="absolute w-[6.25rem] h-[6.25rem] md:w-[11.25rem] md:h-[11.25rem] bottom-[-0.25rem] right-[-0.5rem] w-full h-full">
+              <div className="absolute w-[6.25rem] h-[6.25rem] md:w-[11.25rem] md:h-[11.25rem] bottom-[-0.65rem] md:bottom-[-1.25rem] right-[0.375rem] md:right-[1rem] w-full h-full">
                 <Image
                   src="/profile.png"
                   alt="Profile"
